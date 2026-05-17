@@ -1,0 +1,5 @@
+title: Blackbox Ledger
+description: Internal accounting application for Blackbox Research, a 501(c)(3) nonprofit.
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: pretty
