@@ -1,3 +1,9 @@
+---
+layout: default
+title: End-User License Agreement
+permalink: /EULA/
+---
+
 # End-User License Agreement — Blackbox Ledger
 
 **Last updated:** May 17, 2026
