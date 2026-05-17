@@ -11,8 +11,8 @@ This application is developed and operated solely for the internal use of Blackb
 
 ## Legal
 
-- [End-User License Agreement](EULA)
-- [Privacy Policy](PRIVACY_POLICY)
+- [End-User License Agreement](/blackbox-ledger/EULA/)
+- [Privacy Policy](/blackbox-ledger/privacy/)
 
 ## Contact
 

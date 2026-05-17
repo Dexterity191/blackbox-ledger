@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy — Blackbox Ledger
 
 **Last updated:** May 17, 2026
